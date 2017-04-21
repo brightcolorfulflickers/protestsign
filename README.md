@@ -34,7 +34,7 @@ You may also wish to attach a handle or post to the sign. Many protests disallow
 
 ## Schematic
 
-![Schematic](https://github.com/brightcolorfulflickers/protestsign/blob/master/schematic/protest sign.png)
+![Schematic](https://github.com/brightcolorfulflickers/protestsign/blob/master/schematic/protestsign.png)
 
 ## Photos
 
