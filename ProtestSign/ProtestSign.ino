@@ -51,9 +51,9 @@ Adafruit_NeoMatrix matrix = Adafruit_NeoMatrix(32, 8, PIN,
   NEO_GRB            + NEO_KHZ800);
 const uint16_t colors[] = {
   matrix.Color(255, 0, 0), matrix.Color(0, 255, 0), matrix.Color(0, 0, 255) };
-String textToPrint = "Hello";  
+String textToPrint = "Hello world";  
 
-const int buttonArray[] = {A0,A1,A2,A3,A4,A5,12,11};
+const int buttonArray[] = {5,9,10,11,12,13,A1,A0};
 const int lengthDipswitch = 8;
 const int chipSelect = 4;
 
@@ -61,7 +61,7 @@ const int chipSelect = 4;
 void setup() {
   matrix.begin();
   matrix.setTextWrap(false);
-  matrix.setBrightness(40);
+  matrix.setBrightness(255);
   matrix.setTextColor(colors[0]);
   for (int i=0; i < lengthDipswitch; i++) {
     pinMode(buttonArray[i], INPUT);
