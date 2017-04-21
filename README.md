@@ -16,6 +16,8 @@ Create your sign! I cut a 14"x14" square out of foam board with a box cutter. Th
 
 You may also wish to attach a handle or post to the sign. Many protests disallow wooden or metal sticks, so be sure to use some sturdy cardboard.
 
+I have also included files for a case to be laser cut from acrylic. Be sure to slide the battery and LED connectors through the hole for them on the top plate. The microcontroller board should stick out from the slot on the side so you can access the micro SD card. Screw the proto board to the top of the case with a 4-40 screw. 
+
 ## Parts List
 
 * [M0 Adalogger](https://www.adafruit.com/product/2796)
@@ -30,7 +32,8 @@ You may also wish to attach a handle or post to the sign. Many protests disallow
 * [470 ohm resistor](https://www.digikey.com/product-detail/en/stackpole-electronics-inc/CF14JT470R/CF14JT470RCT-ND/1830342) (for LED data line)
 * Foamboard - available at craft stores. Try to get the kind with the grid on it.
 * [Velcro squares](http://www.joann.com/velcro-brand-sticky-back-squares/prd3165.html#q=Sticky+Velcro&start=1)
-
+* [1/16" acrylic sheet](https://www.inventables.com/technologies/clear-acrylic-sheet)
+* 4-40 machine screw and hex nuts
 
 ## Schematic
 
